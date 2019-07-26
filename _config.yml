@@ -4,25 +4,25 @@
 title: Rahul Mittal
 
 # Short description of your site
-description: A virtual proof that I'm superman
+description: A virtual proof that I'm Superman
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://example.com"
+url: "https://lambowhaler.github.io"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "http://deanattali.com"  
-  Projects: "http://deanattali.com/beautiful-jekyll/"
-  Resume: "http://www.markdowntutorial.com/"
+  Home: ""  
+  Projects: "projects"
+  Resume:  "https://lambowhaler.github.io/CV.pdf"
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -59,14 +59,14 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Rahul Mittal
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+#  rss: true
   email: "pretentiouspunjabiguy@gmail.com"
   facebook: pretentiouspunjabiguy
   github: lambowhaler
@@ -80,9 +80,6 @@ social-network-links:
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
