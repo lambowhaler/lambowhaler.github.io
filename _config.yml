@@ -11,10 +11,10 @@ description: A virtual proof that I'm Superman
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://lambowhaler.github.io"
+# url: "https://cwhaler.github.io"
 
 # baseurl should be an empty string
-baseurl: ""
+# baseurl: ""
 
 # --- Navigation bar options --- #
 
@@ -22,7 +22,7 @@ baseurl: ""
 navbar-links:
   Home: ""  
   Projects: "projects"
-  Resume:  "https://lambowhaler.github.io/CV.pdf"
+  Resume:  "https://cryptowhaler.github.io/CV.pdf"
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -69,7 +69,7 @@ social-network-links:
 #  rss: true
   email: "pretentiouspunjabiguy@gmail.com"
   facebook: pretentiouspunjabiguy
-  github: lambowhaler
+  github: cryptowhaler
   twitter: RahulMi16059132
 #  reddit: yourname
   linkedin: rahul-mittal4233
